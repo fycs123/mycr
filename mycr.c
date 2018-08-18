@@ -1,4 +1,4 @@
 #include<studio.h>
 void main()
 [
-print("hello world,mycr")
+printf("hello world,mycr")
