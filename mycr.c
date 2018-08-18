@@ -2,4 +2,5 @@
 void main()
 {
 printf("hello world,mycr");
+printF("my world");
 }
